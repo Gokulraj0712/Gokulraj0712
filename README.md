@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript%23-%23239120.svg?style=for-the-badge&logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Cypress](https://img.shields.io/badge/cypress%23-%23239120.svg?style=for-the-badge&logo=cypress&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript%23-%23239120.svg?style=for-the-badge&logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Cypress](https://img.shields.io/badge/cypress-%23ED8B00.svg?style=for-the-badge&logo=cypress&logoColor=white) 
 
-![Playwright](https://img.shields.io/badge/playwright%23-%23239120.svg?style=for-the-badge&logo=playwright&logoColor=white)
+![Playwright](https://img.shields.io/badge/playwright-%230072C6.svg?style=for-the-badge&logo=playwright&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/cucumber-%23ED8B00.svg?style=for-the-badge&logo=cucumber&logoColor=white)
 
 
